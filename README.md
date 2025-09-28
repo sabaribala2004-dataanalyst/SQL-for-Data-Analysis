@@ -46,7 +46,7 @@ Queries include filtering, sorting, aggregation, joins, subqueries, views, and o
 
 ## 📂 Output   <!-- Section Heading -->
 - SQL File: <a href="https://github.com/sabaribala2004-dataanalyst/SQL-for-Data-Analysis/blob/main/e_commerce%20database.sql"> E_commerce Database </a>
-- Screenshots: Query outputs stored in report  <a href=""> E_commerce Database </a>
+- Screenshots: Query outputs stored in report  <a href="https://github.com/sabaribala2004-dataanalyst/SQL-for-Data-Analysis/blob/main/Query%20Outputs.pdf"> Click to See Query Outputs </a>
 - Key insights documented in README  
 
 ## ✅ Status   <!-- Section Heading -->
