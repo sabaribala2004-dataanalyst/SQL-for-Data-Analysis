@@ -45,7 +45,7 @@ Queries include filtering, sorting, aggregation, joins, subqueries, views, and o
 9. Window functions (`RANK()`) for top products  
 
 ## 📂 Output   <!-- Section Heading -->
-- SQL File: <a href="[https://github.com/sabaribala2004-dataanalyst/Dashboard-Design/blob/main/AdidasSalesdata.xlsx](https://github.com/sabaribala2004-dataanalyst/SQL-for-Data-Analysis/blob/main/e_commerce%20database.sql)"> E_commerce Database </a>
+- SQL File: <a href="https://github.com/sabaribala2004-dataanalyst/SQL-for-Data-Analysis/blob/main/e_commerce%20database.sql"> E_commerce Database </a>
 - Screenshots: Query outputs stored in repo  
 - Key insights documented in README  
 
